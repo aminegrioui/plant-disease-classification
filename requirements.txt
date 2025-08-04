@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+pywavelets
+scikit-learn
+tensorflow
+keras
+joblib
