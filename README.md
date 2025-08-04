@@ -33,11 +33,13 @@ Verschiebe den Ordner PlantVillage in das Projektverzeichnis unter:
 
 **Projektstruktur**
 
+<pre>
 plant-disease-classification/
-├── data/PlantVillage/                    # Data 
+├── data/PlantVillage/                    # Data
 ├── plant_disease_modeling.ipynb          # Analyse & Modellierung für Apfel
 ├── requirements.txt                      # Alle benötigten Python-Bibliotheken
 └── README.md                             # Diese Projektbeschreibung
+</pre>
 
 #### 4️ Notebooks ausführen
 
