@@ -11,7 +11,7 @@ Die Analyse und das Training erfolgen exemplarisch für drei Pflanzengruppen: Ap
 Klone oder lade das Repository direkt über GitHub herunter:
 
 
-       git clone https://github.com/dein-nutzername/plant-disease-classification.git
+       git clone https://github.com/aminegrioui/plant-disease-classification.git
 
 ### 2️ Bibliotheken installieren
 
